@@ -1,0 +1,9 @@
+CAN START:
+
+NEEDS WORK:
+-Word Occurences Program
+	1. Make changes to have the program pull the text from a URL.
+	2. Create a GUI that will enhance the UX.
+
+
+COMPLETED:
