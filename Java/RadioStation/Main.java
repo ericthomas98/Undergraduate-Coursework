@@ -8,7 +8,7 @@
 */
 import java.util.Scanner;
 
-public class Radio_Station_Object_Tester {
+public class Main {
 
 	public static void main(String[] args) {
 		

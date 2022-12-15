@@ -14,7 +14,7 @@
 * has a “value” method which returns an integer; and (b) returns the argument whose “value” method returns
 * the larger integer. Your generic function should constrain its type argument so that types without a “value” method cannot be  used.
 */
-public class Generics_Program {
+public class Main {
 
 	public static void main(String []args){
 		

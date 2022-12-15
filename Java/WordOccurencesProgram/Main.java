@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class main {
+public class Main {
 
 	/** 
 	 * @author Eric Thomas Jr.

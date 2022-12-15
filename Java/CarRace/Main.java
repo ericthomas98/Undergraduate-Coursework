@@ -12,7 +12,7 @@
 
 /* Vehicle Types: Bugatti/ Audi/ Honda */
 
-public class Car_Race_Program {
+public class Main {
 
 	public static void main(String[] args) {
 		/*Global Variables*/

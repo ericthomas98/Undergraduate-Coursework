@@ -1,5 +1,5 @@
 
-public class Animal_Eating implements Runnable{
+public class AnimalEating implements Runnable{
 	
 	/*Declare local variables*/
 	   protected Food food;

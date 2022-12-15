@@ -15,7 +15,7 @@ import java.util.List;
 * Convert the list to an array using toArray. Output the elements of the array. Convert the array back into a list using asList. Output the elements of the list.
 */
 
-public class Collections_Practice {
+public class Main {
 	
 	public static void main(String[] args) {
 		

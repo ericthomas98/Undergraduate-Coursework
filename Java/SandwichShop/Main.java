@@ -7,7 +7,7 @@
 * to choose from menus and will then get a tailored price in the output.
 */
 
-public class Sandwich_Shop {
+public class Main {
 	
 public static void main(String[] args) {
 

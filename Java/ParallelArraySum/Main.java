@@ -69,7 +69,7 @@ class Summation extends Thread {
 	}
 } 
 
-public class parallelArraySum {
+public class Main {
 
 	public static void main(String[] args)
 	{

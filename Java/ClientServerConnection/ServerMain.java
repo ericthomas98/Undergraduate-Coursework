@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-public class Server {
+public class ServerMain {
 
 	public static void main(String[] args) throws IOException {
 

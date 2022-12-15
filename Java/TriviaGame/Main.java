@@ -9,7 +9,7 @@ package application;
 * dynamic and as such the questions are easy to replace as well as the answers.
 * 10 questions total with correct answers showing in green and incorrect in red
 */
-public class Trivia_Final {
+public class Main {
 		
 
 	public static void main(String[] args) {

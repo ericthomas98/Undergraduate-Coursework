@@ -1,5 +1,6 @@
 /*Program to compare iterative vs recursion time in nano-seconds*/
-public class FibonacciProblem {
+
+public class Main {
 	
 	public static void main(String[] args) {
 
